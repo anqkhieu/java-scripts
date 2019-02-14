@@ -1,9 +1,4 @@
-/**
- * Write a description of class Ball here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class Ball
 {
     // instance variables - replace the example below with your own  
