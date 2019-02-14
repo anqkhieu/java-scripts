@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=i\ name
+comment0.target=myTank(int,\ java.lang.String)
+comment1.params=tanks\ shells
+comment1.target=boolean\ move(java.util.ArrayList,\ java.util.ArrayList)
+comment2.params=tanks
+comment2.target=Shell\ shoot(java.util.ArrayList)
+numComments=3

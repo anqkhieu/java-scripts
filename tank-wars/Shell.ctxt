@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ m\ n\ i
+comment0.target=Shell(double,\ double,\ double,\ double,\ int)
+comment1.params=
+comment1.target=boolean\ move()
+comment2.params=m\ n
+comment2.target=boolean\ in(double,\ double)
+numComments=3
